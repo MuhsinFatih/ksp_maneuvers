@@ -1,0 +1,1 @@
+{"maneuvers": [{"name": "inclination", "angle": 45, "user_input": "north"}, {"name": "de_orbit"}, {"name": "landing"}, {"name": "list_available_maneuvers"}]}
